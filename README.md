@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **vishalpatel0/vishalpatel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🔭 <a href="https://www.linkedin.com/in/vishal-patel-53037673">Linkedin</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpatel0)](https://github.com/anuraghazra/github-readme-stats)
