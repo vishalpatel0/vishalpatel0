@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 <a href="https://www.linkedin.com/in/vishal-patel-53037673">Linkedin</a>
+🔭 <a href="https://www.linkedin.com/in/vishal-patel-53037673">
+    <img src="https://icon-library.com/images/small-linkedin-icon/small-linkedin-icon-14.jpg" alt="linkedin" style="width:180px;height:40px;">
+    </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpatel0)](https://github.com/anuraghazra/github-readme-stats)
