@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <a href="https://www.linkedin.com/in/vishal-patel-53037673">
+ <a href="https://www.linkedin.com/in/vishal-p-53037673/">
     <img src="https://icon-library.com/images/small-linkedin-icon/small-linkedin-icon-14.jpg" alt="linkedin" style="width:180px;height:40px;">
     </a>
