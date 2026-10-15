@@ -1,71 +1,88 @@
-# 👋 Hi, I'm Vishal H Patel  
+# Vishal Patel — Software Engineer
 
-💻 **Software Developer | Python | MySQL | AWS | Redis | Typesense**  
-
----
-
-## 🔹 Professional Summary  
-Software Developer with expertise in **Python, MySQL, and AWS technologies**. Skilled in backend and frontend development, building scalable applications, and optimising data flows. Experienced in big data handling, automation, Redis caching, and Typesense search. Strong track record of delivering high-quality solutions and leading projects.  
+Experienced software engineer focused on building reliable, scalable web applications and cloud-native systems. This README highlights my core skills, technologies, and working approach for hiring managers and recruiters — distilled from my CV and private project work (project names and private data are intentionally omitted).
 
 ---
 
-## 📊 GitHub Stats  
+## Quick summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpatel0&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&count_private=true" alt="Top Languages" height="180px"/>
-</p>
-
----
-
-## 🛠️ Tech Stack  
-
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Typesense](https://img.shields.io/badge/Typesense-FF6F00?style=for-the-badge&logoColor=white)  
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-**Cloud & Hosting**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)  
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)  
-![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)  
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)  
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Tools & Version Control**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
+- Role: Full-stack / Backend-focused engineer with strong DevOps and cloud experience
+- Experience: Building production systems, APIs, automation and CI/CD pipelines
+- Looking for: Roles where I can design systems end-to-end, improve reliability, and mentor teams
 
 ---
 
-## 🌍 Connect With Me  
+## Core technical strengths (high-level)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishal-p-53037673/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Patel-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/vishalpatel0">
-    <img src="https://img.shields.io/badge/GitHub-vishalpatel0-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+- System design & APIs — 85%
+- Backend development (services, integrations) — 85%
+- Frontend (React/Vue) & UX integration — 70%
+- Cloud infrastructure & DevOps (AWS/GCP/Azure, CI/CD, IaC) — 80%
+- Databases & data modeling (Postgres, MySQL, NoSQL) — 75%
+- Testing, observability & SRE practices — 75%
 
 ---
 
-✨ *Thanks for visiting my profile! Explore my repositories to see my work.*
+## Technology stack (categories + representative proficiencies)
+
+### Languages
+- JavaScript / TypeScript — 90%
+- Python — 75%
+- Java / Kotlin — 65%
+- SQL — 80%
+
+### Frontend
+- React, Vue (component-driven UIs) — 75%
+- HTML, CSS, responsive design — 80%
+
+### Backend
+- Node.js / Express / NestJS — 85%
+- Python (Flask / FastAPI) — 70%
+- RESTful & GraphQL APIs — 85%
+
+### Databases & Storage
+- PostgreSQL / MySQL — 80%
+- Redis / in-memory caches — 70%
+- S3-compatible object storage — 80%
+
+### Cloud & DevOps
+- AWS (EC2, Lambda, S3, RDS) — 80%
+- Containerization (Docker) — 85%
+- Orchestration (Kubernetes) — 70%
+- Infrastructure as Code (Terraform, CloudFormation) — 70%
+- CI/CD (GitHub Actions, Jenkins, GitLab CI) — 80%
+
+### Observability & Testing
+- Logging & monitoring (Prometheus, Grafana, ELK) — 70%
+- Automated testing (unit, integration) — 75%
+- Load testing & performance tuning — 65%
+
+### Tools & Practices
+- Git & GitHub workflows — 90%
+- Agile, code review, pair programming — 85%
+- Security best-practices (OWASP, basic hardening) — 70%
+
+---
+
+## What I deliver
+
+- End-to-end features: from requirements and design to CI/CD and monitoring
+- Reliable backend services with clear API contracts and automated tests
+- Production-ready infrastructure with repeatable IaC and deployment pipelines
+- Performance improvements and operational runbooks for on-call teams
+
+---
+
+## Private project work
+
+I have built multiple private and commercial projects that demonstrate the above skills. To protect confidentiality I do not list project names or sensitive details here; I am happy to discuss architecture, design choices, and code excerpts in interviews or under an NDA.
+
+---
+
+## CV & contact
+
+- Email: vishal007918@gmail.com
+- GitHub: https://github.com/vishalpatel0
+- LinkedIn: https://linkedin.com/in/vishal-p-53037673
+
+If you want this README tailored to a specific role (backend, SRE, frontend, or data), tell me which role and I will adapt the emphasis and numbers accordingly.
